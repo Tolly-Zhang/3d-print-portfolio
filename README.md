@@ -6,9 +6,9 @@ Welcome to my collection of 3D printable designs, crafted as part of my portfoli
 
 Each project is organized into its own directory, containing:
 
-- **Source Files**: Editable formats for customization.
-- **Exported STLs**: Ready-to-print files for immediate use.
-- **Documentation**: Instructions and licensing details.
+- Images
+- Source Files
+- Exported STLs and 3MFs
 
 ## Find Me on Printables
 
