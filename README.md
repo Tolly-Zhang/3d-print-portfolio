@@ -12,4 +12,4 @@ Each project is organized into its own directory, containing:
 
 ## Find Me on Printables
 
-You can also explore my designs and updates on my [Printables profile](https://www.printables.com/@TollyZhang_2695894).
+You can also explore my designs and updates on my [Printables Profile](https://www.printables.com/@TollyZhang_2695894).
